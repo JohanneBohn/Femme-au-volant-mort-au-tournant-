@@ -1,1 +1,1 @@
-# Python-DS
+Lancer le notebook dans un environnement équipé de tensorflow.
